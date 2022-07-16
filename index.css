@@ -1,0 +1,760 @@
+.tops{
+    background-image: url(bolg/sssss.jpeg);
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+    /* position: absolute; */
+    background-repeat: no-repeat;
+    /* justify-content: center; */
+}
+.infobelows{
+    /* margin-top: 540px; */
+    /* position: relative; */
+    /* margin-left: 200px; */
+    padding-top: 420px;
+    width: 900px;
+    display: flex;
+    /* text-align: center; */
+    font-weight: bold;
+    justify-content: center;
+}
+.infobelows p{
+    text-align: center;
+    padding: 30px;
+    color: black;
+    
+
+}
+.fix{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    border-radius: 70px;
+    bottom: 1;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    
+    
+}
+.fix a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+/* .convert{
+    width: 130px;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    height: 100px;
+}
+.guarantee{
+    width: 130px;
+    color: black;
+    height: 100px;
+    margin-left: 50px;
+    font-weight: bold;
+
+}
+.energy{
+    width: 130px;
+    color: black;
+    height: 100px;
+    margin-left: 50px;
+    font-weight: bold;
+
+} */
+.topsbut{
+    text-align: center;
+}
+.topsbut button{
+    width: 250px;
+    height: 50px;
+    border: 3px solid white;
+    background-color:  gray;
+    /* background-color: black; */
+    margin-left: 30px;
+    border-radius: 30px;
+}
+/* .topsbut button :hover{
+    background-color: aqua;
+}  */
+.topsbut button a {
+    color: white;
+    text-decoration: none;
+}
+
+.savings{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    /* position: absolute; */
+}
+.elect{
+    width: 500px;
+    height: 600px;
+    /* background-color: aqua; */
+    /* position: absolute; */
+    font-size: 0.9em;
+    /* padding-top: 80px; */
+    padding-left: 50px;
+    padding-right: 40px;
+}
+.elect button{
+    width: 200px;
+    height: 50px;
+    border: 3px solid black;
+    border-radius: 60px;
+    margin-top: 150px;
+    background-color: white;
+}
+.elect button a{
+    color: black;
+    text-decoration: none;
+}
+.savvideo{
+    width: 800px;
+    height: 700px;
+    margin-left: 50px;
+    /* margin-top: -35px; */
+}
+.desi{
+    width: 100%;
+    display: flex;
+    /* height: 100vh; */
+    /* margin-left: 100px; */
+    /* position: absolute; */
+}
+.sleek{
+    width: 500px;
+    height: 600px;
+    /* background-color: aqua; */
+    /* position: absolute; */
+    font-size: 0.9em;
+    padding-top: 80px;
+    padding-left: 50px;
+    padding-right: 40px;
+    
+}
+.sleek button{
+    width: 200px;
+    height: 50px;
+    border: 3px solid black;
+    border-radius: 60px;
+    margin-top: 150px;
+    background-color: white;
+
+}
+.sleek button a{
+    color: black;
+    text-decoration: none;
+
+}
+.imgvid{
+    width: 800px;
+    height: 700px;
+    margin-left: 200px;
+    margin-top: -3px;
+}
+.tesout{
+    width: 100%;
+}
+.imgtesout{
+    width: 1341px;
+    height: 400px;
+}
+.power{
+    width: 100%;
+    display: flex;
+}
+.wall{
+    width: 400px;
+    /* background-color: brown; */
+    margin-left: 100px;
+    height: 300px;
+
+}
+.wall button{
+    width: 150px;
+    height: 40px;
+    border: 3px solid black;
+    border-radius: 60px;
+    margin-top: 30px;
+    background-color: white;
+
+}
+.wall button a{
+    color: black;
+    text-decoration: none
+}
+.besidepower{
+    width: 600px;
+}
+.assesment{
+    width: 100%;
+    height: 760px;
+}
+.poweron{
+    width: 100%;
+    display: flex;
+}
+.order{
+    width: 400px;
+    /* background-color: brown; */
+    margin-left: 100px;
+    height: 300px;
+
+}
+.besidepoweron{
+    width: 600px;
+}
+.order button{
+    width: 150px;
+    height: 40px;
+    border: 3px solid black;
+    border-radius: 60px;
+    margin-top: 30px;
+    background-color: white;
+
+}
+.order button a{
+    color: black;
+    text-decoration: none
+}
+
+.effi{
+    width: 100%;
+    display: flex;
+    /* height: 1600px; */
+}
+.efficiency{
+    width: 400px;
+    /* background-color: brown; */
+    margin-left: 100px;
+    height: 500px;
+}
+.efficiency button{
+    width: 150px;
+    height: 40px;
+    border: 3px solid black;
+    border-radius: 60px;
+    margin-top: 230px;
+    background-color: white;
+}
+.efficiency button a{
+    color: black;
+    text-decoration: none
+
+}
+.invert{
+    width: 800px;
+    height: 600px;
+    margin-left: 100px;
+}
+.handset{
+    width: 100%;
+    height: 700px;
+    background-image: url(bolg/solarroofphone.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* margin-top: -100px; */
+}
+.exp{
+    width: 100%;
+    display: flex;
+    /* height: 1600px; */
+}
+.experience{
+    width: 400px;
+    /* background-color: brown; */
+    margin-left: 100px;
+    height: 500px;
+}
+.besideexpi{
+    width: 600px;
+}
+.experience button{
+    width: 150px;
+    height: 40px;
+    border: 3px solid black;
+    border-radius: 60px;
+    /* margin-top: 230px; */
+    background-color: white;
+}
+.experience button a{
+    color: black;
+    text-decoration: none
+
+}
+.lastp{
+    width: 100%;
+    background-color: black;
+    height: 850px;
+    display: flex;
+    /* position: absolute; */
+    margin-top: -292px;
+    /* margin-left: 1100px; */
+}
+.pblast{
+    width: 450px;
+    height: 400px;
+    margin-left: 10px;
+    /* position: fixed; */
+}
+.besidepb{
+    margin-left: 60px;
+    display: flex;
+    margin-top: 70px;
+}
+.besidepb h1{
+    color: white;
+    font-size: 1.8em;
+}
+.besidepb p{
+    color: white;
+    font-size: 0.8em;
+}
+.besidepb span{
+    color: white;
+    font-size: 0.8em;
+}
+.besidepb hr{
+    width: 50px;
+    margin-left: -2px;
+    color: white;
+    
+    
+}
+
+.flexs2{
+    margin-top: 70px;
+}
+
+.bottompart{
+    width: 100%;
+    background-color: black;
+    /* position: absolute; */
+    height: 600px;
+    text-align: center;
+    /* margin-top: -1px; */
+}
+.bottompart h1{
+    color: white;
+    /* position: absolute; */
+    /* margin-top: 40px; */
+}
+
+.bottompart p{
+    color: white;
+    /* position: absolute; */
+    /* margin-top: 40px; */
+}
+.butbotpart{
+    display: grid;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+.butbotpart button{
+    width: 350px;
+    height: 30px;
+    border: 2px solid white; 
+    border-radius: 30px;
+    background-color: black;   
+}
+.butbotpart button a{
+    text-decoration: none;
+    color: white;
+}
+.navsss{
+    margin-top: 350px;
+    font-size: 0.7em;
+    
+}
+.navsss a{
+    color: white;
+}
+@media screen and (max-width: 700px) {
+    .tops{
+        background-image: url(bolg/sssss.jpeg);
+        height: 100vh;
+        background-size: cover;
+        width: 100%;
+        /* position: relative; */
+        /* background-repeat: no-repeat; */
+        background-position: center;
+        /* text-align: center; */
+        /* justify-content: center; */
+    }
+    .infobelows{
+      
+        /* position: relative; */
+        /* margin-left: 1px; */
+        padding-left: 1px;
+        width: 100%;
+        
+        /* height: 500px; */
+        display: flex;
+        font-size: 0.9em;
+        text-align: center;
+        /* justify-content: center; */
+        padding: 30px;
+        padding-top: 320px;
+        font-size: 0.9em;
+        font-weight: bold;
+        color: white;
+        /* margin-left: -10px; */
+        /* text-align: center; */
+    }
+    .fix{
+        width: 50px;
+        height: 50px;
+        background-color: black;
+        border-radius: 30px;
+        bottom: 1;
+        position: fixed;
+        right: 0;
+        text-align: center;
+        
+    }
+    .fix a{
+        text-decoration: none;
+        color: whitesmoke;
+        font-weight: bolder;
+        
+    }
+    
+    /* .convert{
+        width: 35%;
+        color: black;
+        height: 90px;
+        font-size: 0.8em;
+
+        background-color: red;
+    }
+    .guarantee{
+        width: 30px;
+        color: black;
+        background-color: aqua;
+        height: 50px;
+        font-size: 0.8em;
+        margin-left: 50px;
+    
+    }
+    .energy{
+        width: 30px;
+        color: black;
+        height: 50px;
+        font-size: 0.8em;
+        margin-left: 50px;
+    
+    }
+     */
+     .topsbut{
+         /* justify-content: center; */
+         text-align: center;
+         /* position: absolute; */
+         /* width: 50%; */
+     }
+    .topsbut button{
+        width: 150px;
+        height: 40px;
+        border: 3px solid white;
+        /* background-color: transparent; */
+        /* text-align: center; */
+        /* margin-top: 1px; */
+        
+        
+        background-color: black;
+        color: antiquewhite;
+        /* margin-left: -290px; */
+        border-radius: 30px;
+    }
+    .savings{
+        width: 99%;
+        height: 600px;
+        display: grid;
+        /* margin-top: -400px; */
+        /* position: absolute; */
+        /* background-color: black; */
+    }
+    .elect{
+        width: 100%;
+        height: 500px;
+        /* background-color: aqua; */
+        /* position: absolute; */
+        font-size: 0.8em;
+        padding-top: 80px;
+        /* padding-left: 50px; */
+        padding-right: 40px;
+    }
+    .elect button{
+        width: 120px;
+        height: 40px;
+        border: 3px solid black;
+        border-radius: 60px;
+        margin-top: 10px;
+        background-color: white;
+    }
+    .savvideo{
+        width: 98%;
+        height: 400px;
+        margin-left: 1px;
+        margin-top: 1px;
+        /* margin-top: -260px; */
+    }
+    .desi{
+        width: 98%;
+        display: grid;
+        padding-top: 250px;
+        /* margin-left: 100px; */
+        /* position: absolute; */
+        /* margin-top: 200px; */
+    }
+    .sleek{
+        width: auto;
+        height: 400px;
+        /* background-color: aqua; */
+        /* position: absolute; */
+        font-size: 0.8em;
+        padding-top: 80px;
+        padding-left: 50px;
+        padding-right: 40px;
+        
+    }
+    .sleek button{
+        width: 130px;
+        height: 40px;
+        border: 3px solid black;
+        border-radius: 30px;
+        margin-top: 50px;
+        background-color: white;
+    
+    }
+    .imgvid{
+        width: 98%;
+        height: 400px;
+        margin-left: 1px;
+        margin-top: -10px;
+    }
+    .imgtesout{
+        width: 96%;
+        height: 400px;
+    }
+    .power{
+        width: 98%;
+        display: grid;
+    }
+    .wall{
+        width: 50%;
+        /* background-color: brown; */
+        /* margin-left: 1px; */
+        justify-content: center;
+        height: 300px;
+    
+    }
+    .wall button{
+        width: 150px;
+        height: 40px;
+        border: 3px solid black;
+        border-radius: 30px;
+        margin-top: 30px;
+        background-color: white;
+    
+    }
+    .wall button a{
+        color: black;
+        text-decoration: none;
+        font-size: 0.7em;
+    }
+    .besidepower{
+        width: 60%;
+        font-size: 0.8em;
+        margin-left: 50px;
+        text-align: center;
+        /* background-color: red; */
+    }
+    .assesment{
+        width: 96%;
+        height: 360px;
+        margin-left: 5px;
+        /* margin-left: 20px; */
+    }
+    .poweron{
+        width: 98%;
+        display: grid;
+        /* background-color: aqua; */
+    }
+    .besidepoweron{
+        width: 98%;
+        font-size: 0.8em;
+        padding-left: 35px;
+        padding-right: 40px;
+        text-align: center;
+        /* margin-left: 60px; */
+    }
+    .order{
+        width: 96%;
+        /* background-color: brown; */
+        margin-left: 5px;
+        height: 200px;
+    
+    }
+    .effi{
+        width: 96%;
+        display: grid;
+        /* height: 1600px; */
+    }
+    .efficiency{
+        width: 100%;
+        /* background-color: brown; */
+        margin-left: 6px;
+        text-align: center;
+        height: 260px;
+        font-size: 0.9em;
+        padding-right: 45px;
+        padding-left: 40px;
+    }
+    .efficiency button{
+        width: 200px;
+        height: 40px;
+        border: 3px solid black;
+        border-radius: 60px;
+        margin-top: 30px;
+        background-color: white;
+    }
+    .invert{
+        width: 100%;
+        height: 400px;
+        margin-left: 1px;
+    }
+    .handset{
+        width: 100%;
+        height: 300px;
+        background-image: url(bolg/solarroofphone.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        /* margin-left: 50px; */
+        /* margin-top: -100px; */
+    }
+    .exp{
+        width: 100%;
+        display: grid;
+        /* height: 1600px; */
+    }
+    .experience{
+        width: auto;
+        /* background-color: brown; */
+        /* margin-left: 250px; */
+        height: 200px;
+    }
+    .besideexpi{
+        width: auto;
+        margin-left: 10px;
+        font-size: 0.9em;
+    }
+    .lastp{
+        width: 100%;
+        background-color: black;
+        height: 950px;
+        display: grid;
+        /* position: absolute; */
+        margin-top: 2px;
+        /* margin-left: -1100px; */
+    }
+    .pblast{
+        width: 90%;
+        height: 400px;
+        margin-left: 10px;
+        /* position: fixed; */
+    }
+    .besidepb{
+        margin-left: 60px;
+        display: flex;
+        margin-top: 70px;
+    }
+    .besidepb h1{
+        color: white;
+        font-size: 1.8em;
+    }
+    .besidepb p{
+        color: white;
+        font-size: 0.8em;
+    }
+    .besidepb span{
+        color: white;
+        font-size: 0.8em;
+    }
+    .besidepb hr{
+        width: 50px;
+        margin-left: -2px;
+        color: white;
+        
+        
+    }
+    
+    .flexs2{
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    .bottompart{
+        width:  100%;
+        background-color: black;
+        /* position: absolute; */
+        height: 650px;
+        text-align: center;
+        /* margin-top: 30px; */
+        padding-top: 50px;
+    }
+    .bottompart h1{
+        color: white;
+        /* position: absolute; */
+        /* margin-top: 40px; */
+    }
+    
+    .bottompart p{
+        color: white;
+        /* position: absolute; */
+        /* margin-top: 40px; */
+    }
+    .butbotpart{
+        display: grid;
+        justify-content: center;
+        padding-top: 20px;
+        text-align: center;
+        
+    }
+    .butbotpart button{
+        width: 250px;
+        height: 30px;
+        border: 2px solid white; 
+        border-radius: 30px;
+        background-color: white;   
+    }
+    .butbotpart button a{
+        text-decoration: none;
+        color: white;
+    }
+    .navsss{
+        margin-top: 100px;
+        font-size: 0.7em;
+    
+        
+        
+    }
+    .navsss nav{
+        display: grid;
+        text-align: center;
+    }
+    .navsss a{
+        color: white;
+        
+    }
+  
+
+    
+}
+
+
